@@ -7,3 +7,6 @@ if (a>b):
     print("a більше")
 else:
     print("b більше")
+
+for i in range(1,11):
+    print(i)
